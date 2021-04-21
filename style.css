@@ -138,8 +138,8 @@ h2{
 }
 
 .grid-container {
-    width: 100vm;
-    height: 100vh;
+    width: 80%;
+    height: 80%;
     display: grid;
     grid-template-areas: 
     'header header header'
